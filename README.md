@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Logic](https://img.shields.io/badge/Logic-Algorithms-blue?style=for-the-badge)
-
+![Project](https://img.shields.io/badge/Project-Hangman--Game-orange?style=flat-square)
 ### 📖 About the Project
 This repository contains a collection of practical exercises developed during my **Technical Course at COTEC**. It focuses on fundamental programming logic and data manipulation using **Python**.
 
